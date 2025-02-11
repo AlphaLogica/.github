@@ -1,0 +1,4 @@
+#+TITLE: Alpha Logica
+#+AUTHOR: Luis Victoria
+
+/Alpha Logica is a proprietary retail trading system/
